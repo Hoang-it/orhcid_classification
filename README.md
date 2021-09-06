@@ -1,7 +1,8 @@
 # Orhcid Classification
 
 The architecture of the model is as follows:
-![alt text](https://github.com/Hoang-it/orhcid_classification/image/architecture.jpg?raw=true)
+
+![alt text](/images/model_architecture.png?raw=true)
 
 It include 2 part:
 1. Segmentation orchid flower (SOF): detects and segments orchid flowers in image
@@ -27,6 +28,8 @@ The result of SOF is here:
 |[Orchid Flowers Classification][2]|
 
 ## Classifier orchid’s species (COS)
+
+![alt text](/images/cos_architecture.png?raw=true)
 
 Based on idea of this [paper](https://www.researchgate.net/publication/330528310_Efficient_Deep_Features_Selections_and_Classification_for_Flower_Species_Recognition)
 
